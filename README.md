@@ -11,3 +11,6 @@ This is a basic ruby program that can be run form the terminal useing the follow
 3. open up terminal and navigate to the direcotry where you placed the files
 3. in terminal, run the .rb file (for example, type `ruby pali.rb`)
 
+# Credits
+Special shoutout to Growing with the Web. I never played around with Palindromes before, and their walkthough artical was a huge help with gettin gthe basics down. 
+(https://www.growingwiththeweb.com/2014/02/determine-if-a-string-is-a-palindrome.html)
