@@ -83,7 +83,7 @@ def main_driver
     slowly_spell_in_terminal("\nSpiderman, sorry to hear you need to save Mary Jane... again.\n", 0.05)
     sleep(1)
     slowly_spell_in_terminal("Let me guess, is it the Palindromicon?\n", 0.05)
-    sleep(1 
+    sleep(1)
     slowly_spell_in_terminal("Yep, thought so.\n", 0.05)
     sleep(1)
     slowly_spell_in_terminal("No worries, you've come to the right place! ", 0.05)
