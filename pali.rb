@@ -113,7 +113,7 @@ def main_driver
 
     end while continue == 'y' || continue =='yes'
 
-    slowly_spell_in_terminal("\nNo problem. Good luck, Spiderman! Please let me know if you need recue Mary Jane again.\n", 0.05)
+    slowly_spell_in_terminal("\nNo problem. Good luck, Spiderman! Please let me know if you need help recuing Mary Jane again.\n", 0.05)
     
 end
 
